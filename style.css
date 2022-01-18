@@ -1,0 +1,29 @@
+
+.logo{
+    height: 50px;
+}
+.bg{
+    background:rgb(4,37,68,0.7)
+}
+
+img{
+    height:600px;
+}
+
+
+
+img.card-img-top{
+    height: 80%;
+}
+
+h5.card-title{
+    font-size:small
+}
+
+div.card{
+    width:100px;
+    margin:10px;
+    
+}
+
+
